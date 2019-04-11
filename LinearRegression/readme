@@ -1,0 +1,28 @@
+线性回归法(Linear Regression)
+
+解决回归问题
+思想简单，实现容易
+许多强大的非线性模型的基础
+结果具有很好的可解释性
+
+样本特征只有一个，称为简单线性回归
+
+simpleLinearRegression : 简单线性回归的实现(循环)
+simpleLinearRegressionS : 简单线性回归的实现(向量化)
+
+
+衡量回归算法好坏的标准
+MSE, RMASE, MAE, R Squared当中只有R Squared可以反映预测模型的好坏
+
+当R^2 <= 1
+R^2越大越好。当我们的预测模型不犯任何错误时，R^2得到最大值1
+当我们的模型得到基准模型时，R^2为0
+如果R^2 < 0, 说明我们学习到的模型还不如基准模型。此时,
+很有可能我们的数据不存在任何线性关系
+
+multLinearRegression : 多元线性回归方程的实现
+multLinearRegressionS : 多元线性回归方程的向量化实现
+
+useLinearRegression : 使用scikit-learn中的Linear Regression算法
+bostonExplain : 通过线性回归算法分析波士顿房价相关原因
+

@@ -1,0 +1,17 @@
+测试各类机器学习模型
+
+kNNtest 使用自定义kNN模型测试鸢尾花数据集
+digitsTest 使用自定义kNN模型测试手写体数字数据集
+metrics 计算分类任务测试准确率，衡量线性回归任务的指标（MSE, RMSE, MAE）的实现
+findBestPara01 自定义算法查找kNN分类模型的超参数
+findBestPara02 使用scikit-learn的Grid-Search查找kNN分类模型的超参数
+findBestPara03 使用scikit-learn的Grid-Search查找kNN回归模型的超参数
+sormalizationTest 最值归一化的实现过程
+standardizationTest 均值方差归一化的实现过程
+scalerTest 使用scikit-learn提供的数值归一化
+slrTest 对简单线性回归循环实现和向量化实现的性能测试
+slrMeasureStandard : 衡量回归算法的标准测试(RMSE相比于MAE会因为平方而扩大误差)
+gdToQuantifyTest : 梯度下降法的向量化测试
+pcaTest : 自定义PCA降维测试
+mnistTest : 使用minst数据集
+

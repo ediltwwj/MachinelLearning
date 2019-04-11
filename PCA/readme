@@ -1,0 +1,12 @@
+pcaUse : 使用PCA求解主成分
+
+向量方向是第一主成分
+求出第一主成分后，如何求出下一个主成分？
+
+数据进行改变，将数据在第一个主成分上的分量去掉
+在新的数据上求第一主成分
+
+getMainElements : 获取前n个主成分
+pca : 实现pca的封装并将高维数据映射为低维数据
+pcaSklTest : 使用scikit-learn中的PCA
+denoisePca : 使用Pca对数据进行降噪
