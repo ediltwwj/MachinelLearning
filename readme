@@ -14,3 +14,5 @@ kNN是一个不需要训练过程的算法
 
 梯度上升法(PCA)
 
+多项式回归(PolyRegression)
+
