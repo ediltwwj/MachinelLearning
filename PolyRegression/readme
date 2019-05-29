@@ -5,3 +5,4 @@ regressionComparsion : 模拟数据，比较线性回归和非线性回归的拟
 sklPoly : 在scikit-learn中使用多项式回归c测试模拟数据
 usePipeline : 可以将许多算法模型串联起来，比如将特征提取、归一化、分类组织在一起形成一个典型的机器学习问题工作流
 fitting : 过拟合和欠拟合
+studyLine ： 学习曲线，反映随时数据量增大，训练模型的泛化能力变化
