@@ -44,3 +44,9 @@ biasVarianceTradeOff : 偏差方差权衡
         3、增加样本数
         4、使用验证集
         5、模型正则化
+
+regularization : 模型正则化
+    限制参数的大小
+
+ridgeRegression : 岭回归
+    目标 : 使得J函数值尽可能小
