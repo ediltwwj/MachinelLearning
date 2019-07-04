@@ -48,5 +48,8 @@ biasVarianceTradeOff : 偏差方差权衡
 regularization : 模型正则化
     限制参数的大小
 
-ridgeRegression : 岭回归
-    目标 : 使得J函数值尽可能小
+    ridgeRegression : 岭回归
+        目标 : 使得J损失函数的塞塔值的平方尽可能小
+
+    lassoRegression : LASSO回归
+        目标 ： 使得J损失函数的塞塔值的绝对值尽可能小
