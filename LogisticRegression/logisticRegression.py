@@ -1,5 +1,5 @@
 import numpy as np
-import ModelTest.metrics  # 为使用accurary_score方法
+from ModelTest.metrics import accuracy_score
 
 
 class LogisticRegression:
