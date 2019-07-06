@@ -14,3 +14,5 @@ Sigmoid函数 : sigmoidFunc
 绘制不规则决策边界 : drawDecisionBoundary
 
 KNN决策边界绘制 : knnDecisionBoundary
+
+在逻辑回归中添加多项式特征并绘制决策边界 : drawPRBoundray
