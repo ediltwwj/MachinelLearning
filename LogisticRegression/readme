@@ -16,3 +16,5 @@ Sigmoid函数 : sigmoidFunc
 KNN决策边界绘制 : knnDecisionBoundary
 
 在逻辑回归中添加多项式特征并绘制决策边界 : drawPRBoundray
+
+scikit-learn当中的逻辑回归 : slLogisticRegression
