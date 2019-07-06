@@ -18,3 +18,9 @@ KNN决策边界绘制 : knnDecisionBoundary
 在逻辑回归中添加多项式特征并绘制决策边界 : drawPRBoundray
 
 scikit-learn当中的逻辑回归 : slLogisticRegression
+
+逻辑回归解决二分类问题，使用ovR或者ovo可以解决多分类问题
+    ovR（one VS rest) : n个类别就进行n次分类，选择分类得分最高的
+    ovO（one VS one） ： 从n个当中选两个类别，可以选n（n-1）/2种，也是选择得分最高的分类
+
+    ovO耗时长，但结果更准确
