@@ -4,6 +4,12 @@ from sklearn import datasets
 from KNN.modelSplit import train_test_split
 from LogisticRegression.logisticRegression import LogisticRegression
 
+def x2(x1):
+    """以p=0.5为边界推导决策边界函数"""
+
+    return (-log_reg.coef_[0] * x1 - log_reg.interception_) / log_reg.coef_[1]
+
+
 if __name__ == "__main__":
 
     iris = datasets.load_iris()
@@ -20,5 +26,16 @@ if __name__ == "__main__":
     log_reg.fit(X_train, y_train)
 
     print("Precit score : {}".format(log_reg.score(X_test, y_test)))
+
+    # 绘制决策边界,有一个样本分类错误
+    x1_plot = np.linspace(4, 8, 1000)
+    x2_plot = x2(x1_plot)
+
+    plt.scatter(X[y == 0, 0], X[y == 0, 1], color='red')
+    plt.scatter(X[y == 1, 0], X[y == 1, 1], color='blue')
+    plt.plot(x1_plot, x2_plot)
+
+    plt.show()
+
 
 
