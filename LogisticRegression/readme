@@ -11,4 +11,6 @@ Sigmoid函数 : sigmoidFunc
 
 使用逻辑回归算法 : useLr
 
-绘制决策边界 : drawDecisionBoundary
+绘制不规则决策边界 : drawDecisionBoundary
+
+KNN决策边界绘制 : knnDecisionBoundary
