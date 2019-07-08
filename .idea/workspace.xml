@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="367d062d-a513-4c82-8163-0f11433e68d9" name="Default Changelist" comment="逻辑回归">
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfusionMatrix/__init__.py" afterDir="false" />
+      <change beforePath="D:/first_django/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/first_django/.idea/first_django.iml" beforeDir="false" />
+      <change beforePath="D:/first_django/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/first_django/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="D:/first_django/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/first_django/db.sqlite3" beforeDir="false" />
+      <change beforePath="D:/first_django/first_django/__init__.py" beforeDir="false" />
+      <change beforePath="D:/first_django/first_django/settings.py" beforeDir="false" />
+      <change beforePath="D:/first_django/first_django/urls.py" beforeDir="false" />
+      <change beforePath="D:/first_django/first_django/wsgi.py" beforeDir="false" />
+      <change beforePath="D:/first_django/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonLab" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonLab" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/ovoAndOvr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/knnDecisionBoundary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/drawDecisionBoundary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/slLogisticRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Y</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>X</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/drawDecisionBoundary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/slLogisticRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/drawPRBoundary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/useLr.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCA/eigenFace.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/ovoAndOvr.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ModelTest/mnistTest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/logisticRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/knnDecisionBoundary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/KNN/useKnnRegressor.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/KNN/modelSplit.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/usePipeline.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/regressionComparsion.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LogisticRegression/sigmoidFunc.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/sklPoly.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCA/pca.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/KNN/knnProc.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelTest/multLrTest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCA/getMainElements.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ModelTest/slrRealizePerformanceTest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ModelTest/findBestPara03.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/fitting.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/studyLine.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/crossValidation.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ModelTest/gdToQuantifyTest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/GradientDescent/useGdUnderLr.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/GradientDescent/gdSimulationRealize.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/ridgeRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PolyRegression/lassoRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCA/pcaUse.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinearRegression/multLinearRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinearRegression/useLinearRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinearRegression/bostonExplain.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinearRegression/simpleLinearRegression.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCA/pcaSklTest.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinearRegression/useLinearRegression.py" />
+        <option value="$PROJECT_DIR$/KNN/readme" />
+        <option value="$PROJECT_DIR$/KNN/useKnnRegressor.py" />
+        <option value="$PROJECT_DIR$/ModelTest/findBestPara02.py" />
+        <option value="$PROJECT_DIR$/ModelTest/findBestPara03.py" />
+        <option value="$PROJECT_DIR$/LinearRegression/bostonExplain.py" />
+        <option value="$PROJECT_DIR$/GradientDescent.py" />
+        <option value="$PROJECT_DIR$/GradientDescent/gdSimulationRealize.py" />
+        <option value="$PROJECT_DIR$/GradientDescent/useGdUnderLr.py" />
+        <option value="$PROJECT_DIR$/ModelTest/multLrTest.py" />
+        <option value="$PROJECT_DIR$/LinearRegression/multLinearRegression.py" />
+        <option value="$PROJECT_DIR$/MediaTest/kdxf.py" />
+        <option value="$PROJECT_DIR$/GradientDescent/gdToQuantifyRealize.py" />
+        <option value="$PROJECT_DIR$/LinearRegression/multLinearRegressionS.py" />
+        <option value="$PROJECT_DIR$/LinearRegression/readme" />
+        <option value="$PROJECT_DIR$/ModelTest/gdToQuantifyTest.py" />
+        <option value="$PROJECT_DIR$/PCA/pcaUse.py" />
+        <option value="$PROJECT_DIR$/PCA/getMainElements.py" />
+        <option value="$PROJECT_DIR$/PCA/pca.py" />
+        <option value="$PROJECT_DIR$/ModelTest/pcaTest.py" />
+        <option value="$PROJECT_DIR$/PCA/pcaTest.py" />
+        <option value="$PROJECT_DIR$/PCA/pcaSklTest.py" />
+        <option value="$PROJECT_DIR$/ModelTest/minstTest.py" />
+        <option value="$PROJECT_DIR$/ModelTest/readme" />
+        <option value="$PROJECT_DIR$/ModelTest/mnistTest.py" />
+        <option value="$PROJECT_DIR$/PCA/denoisePca.py" />
+        <option value="$PROJECT_DIR$/GradientDescent/eigenFace.py" />
+        <option value="$PROJECT_DIR$/PCA/eigenFace.py" />
+        <option value="$PROJECT_DIR$/PCA/readme" />
+        <option value="$PROJECT_DIR$/GradientDescent/readme" />
+        <option value="$PROJECT_DIR$/PolyRegression/regressionComparsion.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/sklPoly.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/usePipeline.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/fitting.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/studyLine.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/crossValidation.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/biasVarianceTradeOff.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/Regularization.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/readme" />
+        <option value="$PROJECT_DIR$/PolyRegression/ridgeRegression.py" />
+        <option value="$PROJECT_DIR$/PolyRegression/lassoRegression.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/sigmoidFunc.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/logisticRegression.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/useLr.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/knnDecisionBoundary.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/drawDecisionBoundary.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/drawPRBoundary.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/slLogisticRegression.py" />
+        <option value="$PROJECT_DIR$/LogisticRegression/readme" />
+        <option value="$PROJECT_DIR$/LogisticRegression/ovoAndOvr.py" />
+        <option value="$PROJECT_DIR$/readme" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="522" />
+    <option name="y" value="141" />
+    <option name="width" value="1242" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ovoAndOvr">
+    <configuration name="drawDecisionBoundary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression/drawDecisionBoundary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawPRBoundary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression/drawPRBoundary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knnDecisionBoundary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression/knnDecisionBoundary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ovoAndOvr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression/ovoAndOvr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slLogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression/slLogisticRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.drawDecisionBoundary" />
+      <item itemvalue="Python.knnDecisionBoundary" />
+      <item itemvalue="Python.drawPRBoundary" />
+      <item itemvalue="Python.slLogisticRegression" />
+      <item itemvalue="Python.ovoAndOvr" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ovoAndOvr" />
+        <item itemvalue="Python.drawDecisionBoundary" />
+        <item itemvalue="Python.slLogisticRegression" />
+        <item itemvalue="Python.drawPRBoundary" />
+        <item itemvalue="Python.knnDecisionBoundary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367d062d-a513-4c82-8163-0f11433e68d9" name="Default Changelist" comment="" />
+      <created>1552721820139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552721820139</updated>
+      <workItem from="1562548516215" duration="124000" />
+      <workItem from="1562562000133" duration="118000" />
+      <workItem from="1562593050483" duration="1352000" />
+    </task>
+    <task id="LOCAL-00001" summary="机器学习入门代码">
+      <created>1554966171734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554966171734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="人脸识别和特征脸">
+      <created>1555428385621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555428385621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="多项式回归和线性回归对比">
+      <created>1557149072154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557149072154</updated>
+    </task>
+    <task id="LOCAL-00004" summary="使用scikit-learn中的多项式特征生成器">
+      <created>1557150132152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557150132152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="使用Pipeline进行数据处理">
+      <created>1557151051360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557151051360</updated>
+    </task>
+    <task id="LOCAL-00006" summary="过拟合和欠拟合">
+      <created>1557236419831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557236419831</updated>
+    </task>
+    <task id="LOCAL-00007" summary="使用学习曲线，观察预测结果">
+      <created>1559114943802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559114943802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="交叉验证">
+      <created>1559124524754</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559124524754</updated>
+    </task>
+    <task id="LOCAL-00009" summary="偏差方差权衡">
+      <created>1559207829338</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559207829339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="模型正则化">
+      <created>1562239096536</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562239096536</updated>
+    </task>
+    <task id="LOCAL-00011" summary="模型正则化">
+      <created>1562239299482</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562239299482</updated>
+    </task>
+    <task id="LOCAL-00012" summary="模型正则化之岭回归">
+      <created>1562241072231</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562241072231</updated>
+    </task>
+    <task id="LOCAL-00013" summary="岭回归">
+      <created>1562241100377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1562241100377</updated>
+    </task>
+    <task id="LOCAL-00014" summary="LASSO回归">
+      <created>1562242790107</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1562242790109</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lasso回归">
+      <created>1562242811724</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1562242811724</updated>
+    </task>
+    <task id="LOCAL-00016" summary="逻辑回归">
+      <created>1562323452492</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1562323452492</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Sigmoid函数绘图">
+      <created>1562324794613</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1562324794613</updated>
+    </task>
+    <task id="LOCAL-00018" summary="逻辑回归和Sigmoid函数">
+      <created>1562325101506</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562325101506</updated>
+    </task>
+    <task id="LOCAL-00019" summary="LogisticRegression 初始文件">
+      <created>1562325172673</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562325172674</updated>
+    </task>
+    <task id="LOCAL-00020" summary="实现逻辑回归算法">
+      <created>1562329287454</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562329287454</updated>
+    </task>
+    <task id="LOCAL-00021" summary="更新...">
+      <created>1562329318746</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562329318746</updated>
+    </task>
+    <task id="LOCAL-00022" summary="导入包的修正">
+      <created>1562330276388</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562330276388</updated>
+    </task>
+    <task id="LOCAL-00023" summary="使用逻辑回归">
+      <created>1562330472260</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1562330472260</updated>
+    </task>
+    <task id="LOCAL-00024" summary="逻辑回归更新...">
+      <created>1562380254258</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1562380254258</updated>
+    </task>
+    <task id="LOCAL-00025" summary="绘制鸢尾花逻辑回归模型的规则决策边界">
+      <created>1562382835021</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562382835021</updated>
+    </task>
+    <task id="LOCAL-00026" summary="绘制鸢尾花逻辑回归模型的不规则决策边界">
+      <created>1562383504971</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562383504971</updated>
+    </task>
+    <task id="LOCAL-00027" summary="不规则决策边界绘制方法">
+      <created>1562383545338</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1562383545338</updated>
+    </task>
+    <task id="LOCAL-00028" summary="KNN决策边界">
+      <created>1562394797829</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562394797829</updated>
+    </task>
+    <task id="LOCAL-00029" summary="更新...">
+      <created>1562394826199</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1562394826199</updated>
+    </task>
+    <task id="LOCAL-00030" summary="为逻辑回归添加多项式特征并绘制决策边界">
+      <created>1562396988290</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1562396988290</updated>
+    </task>
+    <task id="LOCAL-00031" summary="更新...">
+      <created>1562397163823</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1562397163823</updated>
+    </task>
+    <task id="LOCAL-00032" summary="更新...">
+      <created>1562400134816</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1562400134816</updated>
+    </task>
+    <task id="LOCAL-00033" summary="在scikit-learn当中使用逻辑回归">
+      <created>1562400190856</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1562400190856</updated>
+    </task>
+    <task id="LOCAL-00034" summary="OVO AND OVR 更新...">
+      <created>1562403967108</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1562403967108</updated>
+    </task>
+    <task id="LOCAL-00035" summary="OvO and OvR">
+      <created>1562405664585</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1562405664585</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1594000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14828694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49736008" visible="true" weight="0.31688598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026399" side_tool="true" weight="0.31688598" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="使用学习曲线，观察预测结果" />
+    <MESSAGE value="交叉验证" />
+    <MESSAGE value="偏差方差权衡" />
+    <MESSAGE value="模型正则化" />
+    <MESSAGE value="模型正则化之岭回归" />
+    <MESSAGE value="岭回归" />
+    <MESSAGE value="LASSO回归" />
+    <MESSAGE value="lasso回归" />
+    <MESSAGE value="逻辑回归" />
+    <MESSAGE value="Sigmoid函数绘图" />
+    <MESSAGE value="逻辑回归和Sigmoid函数" />
+    <MESSAGE value="LogisticRegression 初始文件" />
+    <MESSAGE value="实现逻辑回归算法" />
+    <MESSAGE value="导入包的修正" />
+    <MESSAGE value="使用逻辑回归" />
+    <MESSAGE value="逻辑回归更新..." />
+    <MESSAGE value="绘制鸢尾花逻辑回归模型的规则决策边界" />
+    <MESSAGE value="绘制鸢尾花逻辑回归模型的不规则决策边界" />
+    <MESSAGE value="不规则决策边界绘制方法" />
+    <MESSAGE value="KNN决策边界" />
+    <MESSAGE value="为逻辑回归添加多项式特征并绘制决策边界" />
+    <MESSAGE value="更新..." />
+    <MESSAGE value="在scikit-learn当中使用逻辑回归" />
+    <MESSAGE value="OVO AND OVR 更新..." />
+    <MESSAGE value="OvO and OvR" />
+    <option name="LAST_COMMIT_MESSAGE" value="OvO and OvR" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearning$ovoAndOvr.coverage" NAME="ovoAndOvr Coverage Results" MODIFIED="1562594994390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ModelTest/pcaTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA/pcaSklTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradientDescent/eigenFace.py" />
+    <entry file="file://$PROJECT_DIR$/ModelTest/digitsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA/pcaUse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="69" column="70" lean-forward="true" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA/denoisePca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA/eigenFace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelTest/mnistTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/usePipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/regressionComparsion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/sklPoly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/regularization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/biasVarianceTradeOff.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/studyLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-820">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/crossValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearRegression/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearRegression/simpleLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradientDescent/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearRegression/simpleLinearRegressionS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearRegression/useLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelTest/metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelTest/gdToQuantifyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradientDescent/gdSimulationRealize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradientDescent/gdToQuantifyRealize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradientDescent/useGdUnderLr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearRegression/multLinearRegressionS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/useKnnRegressor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/useKnnClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelTest/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/modelSplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/matplotlib/contour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="959" selection-start-line="959" selection-end-line="959" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/sigmoidFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/lassoRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/ridgeRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyRegression/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/useLr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/drawPRBoundary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/logisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1180">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/knnDecisionBoundary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/drawDecisionBoundary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/slLogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/ovoAndOvr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
