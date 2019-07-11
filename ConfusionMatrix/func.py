@@ -67,7 +67,7 @@ def TPR(y_true, y_predict):
     except:
         0.0
 
-def FRP(y_true, y_predict):
+def FPR(y_true, y_predict):
 
     fp = FP(y_true, y_predict)
     tn = TN(y_true, y_predict)
