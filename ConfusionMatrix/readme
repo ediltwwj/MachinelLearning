@@ -26,3 +26,11 @@ f1Score : 实现F1Score
 
 line : 精准率 召回率的平衡
     可以去调整阈值，精准率召回率呈现反比
+
+
+ROC ： 描述TPR和FPR之间的关系
+    TPR = Recall
+    FPR = FP / (TN + FP)
+    呈现正比关系
+
+func : TP,FP等方法的封装
