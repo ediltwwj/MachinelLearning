@@ -34,3 +34,5 @@ ROC ： 描述TPR和FPR之间的关系
     呈现正比关系
 
 func : TP,FP等方法的封装
+
+multiClass : 多分类问题中的混淆矩阵
