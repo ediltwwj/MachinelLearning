@@ -23,3 +23,6 @@ realize : 实现混淆矩阵，精确率和召回率
 useSklConfusionMatrix ： 使用skleran中的混淆矩阵，精确率，召回率
 
 f1Score : 实现F1Score
+
+line : 精准率 召回率的平衡
+    可以去调整阈值，精准率召回率呈现反比
