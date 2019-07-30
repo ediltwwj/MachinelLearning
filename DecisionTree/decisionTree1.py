@@ -4,6 +4,8 @@ from sklearn import datasets
 from sklearn.tree import DecisionTreeClassifier
 from LogisticRegression.drawDecisionBoundary import plot_decision_boundary
 
+"""使用scikit-learn的信息熵划分"""
+
 if __name__ == "__main__":
 
     iris = datasets.load_iris()
